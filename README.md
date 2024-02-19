@@ -14,4 +14,4 @@ My SQL Workbench
 
 Tableau
 
-If you do not have a Microsoft account, you can access the project [here](https://github.com/BharatJethani2024/Tableau-Project/blob/main/Tableu%20Profit%20and%20Revenue%20Analysis%20Sales%20insights.pdf)https://github.com/BharatJethani2024/Tableau-Project/blob/main/Tableu%20Profit%20and%20Revenue%20Analysis%20Sales%20insights.pdf).
+If you do not have a Microsoft account, you can access the project [here](https://github.com/BharatJethani2024/Tableau-Project/blob/main/Tableu%20Profit%20and%20Revenue%20Analysis%20Sales%20insights.pdf)
