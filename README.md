@@ -8,6 +8,16 @@ Key Objectives:
 
 Aggregate sales data from multiple regional offices into a centralized Power BI platform. Develop interactive dashboards and visualizations that provide Bhavan with clear insights into sales performance across different regions. Implement features such as trend analysis, revenue breakdowns, and customer segmentation to aid in decision-making. Enable automated monthly email reports to keep Bhavan informed about the company's performance without the need for manual data retrieval. By delivering a user-friendly Power BI solution, this project aims to empower Bhavan Patel with the tools necessary to make strategic decisions and drive sales growth for AtliQ Hardware.
 
+In this Project work done as below:
+
+✅ Data Analysis using SQL
+
+✅ Data Cleaning & ETL in Tableau
+
+✅ Tableau Dashboard
+
+
+
 Tool used:
 
 My SQL Workbench
