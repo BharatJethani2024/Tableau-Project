@@ -1,6 +1,6 @@
 # Tableau-Project
 
-![Dashboard](tableau preview.png)
+![Dashboard](dashboard.png)
 
 Problem Statement:
 
